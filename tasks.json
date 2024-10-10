@@ -1,0 +1,20 @@
+[
+  {
+    "description": "eat lunch",
+    "status": "todo",
+    "createdAt": "2024-10-10T05:01:42.572Z",
+    "updatedAt": "2024-10-10T05:01:42.572Z"
+  },
+  {
+    "description": "hello kitty",
+    "status": "todo",
+    "createdAt": "2024-10-10T05:01:49.788Z",
+    "updatedAt": "2024-10-10T05:01:49.788Z"
+  },
+  {
+    "description": "newly created task",
+    "status": "todo",
+    "createdAt": "2024-10-10T05:05:37.392Z",
+    "updatedAt": "2024-10-10T05:05:37.392Z"
+  }
+]
