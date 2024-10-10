@@ -21,3 +21,7 @@ A simple CLI-based task tracking application built using Node.js. This app allow
    ```bash
    git clone https://github.com/jishnu0712/task-tracker-cli.git
    cd task-tracker-cli
+
+Project URL
+    ```bash
+    https://roadmap.sh/projects/task-tracker
